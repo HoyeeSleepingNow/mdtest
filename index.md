@@ -1,6 +1,8 @@
 
 ## 笔记分享网站测试
 
+[to my github](https://github.com/Kanabin/mdtest)
+
 #### [javascrip笔记](https://kanabin.github.io/mdtest/javascript.html)
 
 #### [htmlcss笔记](https://kanabin.github.io/mdtest/from_vedio140)
